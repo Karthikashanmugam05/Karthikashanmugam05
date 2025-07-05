@@ -1,7 +1,7 @@
 Hi there 👋 It's me Karthika
 
 Computer Science Engineering Student
-<img align="right"  width="370"  height="290" src="C:\Users\karth\OneDrive\Desktop\99119.jpg">
+<img align="right"  width="370"  height="290" src="99119.jpg">
 -🔭 I'm currently learning DSA
 -🌱 I'm looking for help with Placement in FAANG
 -💬 Ask me about Tech
